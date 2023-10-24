@@ -1,0 +1,4 @@
+﻿  laboration_5.5.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_5.5\laboration_5.5.cpp(18,20): warning C4305: 'initializing': truncation from '__int64' to 'unsigned int'
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_5.5\laboration_5.5.cpp(18,22): warning C4309: 'initializing': truncation of constant value
+  laboration_5.5.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_5.5\x64\Debug\laboration_5.5.exe
